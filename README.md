@@ -28,4 +28,4 @@ We explain the Dupire's Volatility Formula and review the Savine's implementatio
 
 ### [Session 6](https://youtu.be/f4k0BozqJ4I)
 
-We implement the Dupire's Model example in [Python](https://colab.research.google.com/drive/1b-wMIzUPO9-KUHtiXKn1xdFvdGiuT2Hw?usp=sharing) which are useful to understand how ADD reduces time and computational cost using the record of calculations in a *Tape*.
+We implement the Dupire's Model example in [Python](https://colab.research.google.com/drive/1b-wMIzUPO9-KUHtiXKn1xdFvdGiuT2Hw?usp=sharing) which are useful to understand how AAD reduces time and computational cost using the record of calculations in a *Tape*.
